@@ -2,5 +2,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidy180&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript?style=&logo=black&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/?style=&logo=&logoColor="/>
+
+
 
 # NextJS v15 airbnb clone
