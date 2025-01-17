@@ -7,7 +7,7 @@
 
 # NextJS v15 airbnb clone
 
-□ 메인  -[https://www.airbnb.co.kr][/]-검색(여행지,체크인,체크아웃,여행자),필터(숙소유형,가격범위,침실과침대,편의시설,예약옵션,돋보이는숙소)
+□ 메인  -[https://www.airbnb.co.kr][/]-검색(여행지,체크인,체크아웃,여행자),필터(숙소유형,가격범위,침실과침대,편의시설,예약옵션,돋보이는숙소)\n
 □ 로그인-[https://www.airbnb.co.kr/login][/login]-자체로그인,SNS로그인(구글)
 □ 호스트-[https://www.airbnb.co.kr/host/homes][/host/homes]-소개글(기존페이지 참고)
 □ 메시지-[https://www.airbnb.co.kr/guest/messages][/guest/messages]-메시지받기(회원가입시 축하메일 보내기)
